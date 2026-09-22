@@ -6,7 +6,9 @@
 
 ##
 
-
+<div>
+  <img align="center" width="1584px" src="/imagemfundoLinkedIn.jpg">
+</div>
 
 ##
 
